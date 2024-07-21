@@ -1,0 +1,1 @@
+On this site, a simple e-commerce site was created with React. When using React, hooks such as useNavigate, useDispatch, useSelector, useState were used. It will be a great practice for those new to React.
